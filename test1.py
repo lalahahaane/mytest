@@ -1,1 +1,1 @@
-p
+print("我是test 1")
